@@ -1,6 +1,6 @@
 # Python Group Chat Server
 
-This project is a TCP-based group chat system written in Python. It demonstrates non-blocking socket programming and real-time message broadcasting using `select()`. Multiple clients can connect to a central server, send messages, and receive updates in real-time from other participants.
+This project is a simple TCP-based group chat system written in Python. It demonstrates non-blocking socket programming and real-time message broadcasting using `select()`. Multiple clients can connect to a central server, send messages, and receive updates in real-time from other participants.
 
 Developed by Joshua Moorehead.
 
